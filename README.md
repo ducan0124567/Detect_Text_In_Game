@@ -1,5 +1,5 @@
 # Detect_Text_In_Game
-A lot of duplicate text in a lot of files, this tool will make duplicate text becomes different. So it's easy to detect what real text used in game.
+A lot of duplicate text in a lot of files, this tool will make duplicate text becomes different. So it's easy to detect which real text used in game.
 Then use 010 Editor to find real text in file.
 
 e.g:
