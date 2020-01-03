@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MyLibrary">
-      <HintPath>..\..\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll</HintPath>
+      <HintPath>..\MyLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

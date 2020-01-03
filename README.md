@@ -3,7 +3,7 @@ A lot of duplicate text in a lot of files, this tool will make duplicate text be
 Then use 010 editor to find real text in file.
 
 e.g:
-	1.dat, 2.dat, 3.dat has duplicate "abcdef" text 
+	1.dat, 2.dat, 3.dat has duplicate "abcdef" text.
 	
 	- After use this tool:
 	
@@ -13,7 +13,7 @@ e.g:
 	
 	"ab0002" (3.dat)
 
-Currently support:
+Currently support
 ========================
 - Encoding: unicode big endian.
 - File size < 150 MB
