@@ -4,9 +4,13 @@ Then use 010 editor to find real text in file.
 
 e.g:
 	1.dat, 2.dat, 3.dat has duplicate "abcdef" text 
+	
 	- After use this tool:
+	
 	"ab0000" (1.dat)
+	
 	"ab0001" (2.dat)
+	
 	"ab0002" (3.dat)
 
 Currently support:
