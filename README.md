@@ -13,7 +13,7 @@ e.g:
 	
 	"ab0002" (3.dat)
 
-Currently support:
+Currently support
 ========================
 - Encoding: unicode big endian.
 - File size < 150 MB
