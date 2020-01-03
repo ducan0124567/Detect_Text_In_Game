@@ -21,6 +21,6 @@ Currently support
 
 TODO
 ========================
-- Encode utf8, unicode little endian.
+- Encoding: utf8, unicode little endian.
 - File size > 150 MB
 - Number of files > 1000
